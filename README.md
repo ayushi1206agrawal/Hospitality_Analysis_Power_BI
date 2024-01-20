@@ -14,4 +14,4 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 3. Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Metrics File
-Explore the [Metrics File](link-to-metrics-file) for a detailed list of metrics used in the analysis.
+Explore the [Metrics File](https://github.com/ayushi1206agrawal/Hospitality_Analysis_Power_BI/blob/main/Metrics/metrics%20list.xlsx) for a detailed list of metrics used in the analysis.
