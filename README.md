@@ -20,4 +20,18 @@ Explore the [Metrics File](https://github.com/ayushi1206agrawal/Hospitality_Anal
 ## Dashboard Mock-up provided by stakeholders
 ![Mock-up Dashboard](https://github.com/ayushi1206agrawal/Hospitality_Analysis_Power_BI/blob/main/Metrics/mock%20up%20dashboard_atliq%20grands.png)
 
-## 
+## Data Model
+![Data Model](https://github.com/ayushi1206agrawal/Hospitality_Analysis_Power_BI/blob/main/Metrics/Data_Model.png)
+
+## Overall Analysis
+![Overview](https://github.com/ayushi1206agrawal/Hospitality_Analysis_Power_BI/blob/main/Metrics/Overview.png)
+
+## Property by Key Metrics
+![Property by key metrics](https://github.com/ayushi1206agrawal/Hospitality_Analysis_Power_BI/blob/main/Metrics/Property_by_Key_Metrics.png)
+
+## Weekly Trends
+![Weekly Trends](https://github.com/ayushi1206agrawal/Hospitality_Analysis_Power_BI/blob/main/Metrics/Weekly_Trends.png)
+
+## Weekdays vs Weekends
+![Weekdays vs Weekends](https://github.com/ayushi1206agrawal/Hospitality_Analysis_Power_BI/blob/main/Metrics/WEEKDAYS_vs_WEEKENDS.png)
+
