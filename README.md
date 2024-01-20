@@ -35,3 +35,11 @@ Explore the [Metrics File](https://github.com/ayushi1206agrawal/Hospitality_Anal
 ## Weekdays vs Weekends
 ![Weekdays vs Weekends](https://github.com/ayushi1206agrawal/Hospitality_Analysis_Power_BI/blob/main/Metrics/WEEKDAYS_vs_WEEKENDS.png)
 
+## Key Insights from the Analysis
+1. Mumbai leads in revenue with 660.64M, reinforcing its pivotal role in driving overall financial performance among cities.
+2. AtliQ Exotica excels with 316.47M in revenue, an impressive average rating of 3.62, 57% occupancy, and a 24.39% cancellation rate.
+3. AtliQ Bay boasts the highest occupancy rate at 61.92%, indicating consistent popularity among guests.
+4. Week 29 witnessed the highest revenue peak at 7,896.17, contributing 8.28% to the overall revenue, marking it as a strategic period for consideration.
+5. Delhi secures the highest average Occupancy% at 0.60 and leads in average rating, emphasizing its importance and potential for targeted strategies.
+6. AtliQ faced a revenue loss of around 298M due to cancellations, underscoring the need for strategies to minimize cancellations and enhance overall booking stability.
+7. Elite rooms lead with the highest total revenue at 553.7M, highlighting their popularity despite facing a higher cancellation rate.
