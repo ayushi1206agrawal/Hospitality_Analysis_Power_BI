@@ -16,4 +16,8 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Metrics File
 Explore the [Metrics File](https://github.com/ayushi1206agrawal/Hospitality_Analysis_Power_BI/blob/main/Metrics/metrics%20list.xlsx) for a detailed list of metrics used in the analysis.
 
+
 ## Dashboard Mock-up provided by stakeholders
+![Mock-up Dashboard](https://github.com/ayushi1206agrawal/Hospitality_Analysis_Power_BI/blob/main/Metrics/mock%20up%20dashboard_atliq%20grands.png)
+
+## 
